@@ -46,7 +46,6 @@ public class WordSquares {
 	public static void main(String[] args) {
 
 		String[] words = { "LADY", "AREA", "DEAR", "YARD" };
-
 		isWordSquare(words);
 	}
 	
